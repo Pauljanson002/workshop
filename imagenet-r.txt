@@ -1,0 +1,21 @@
+Task 0
+Accuracy at 0  0.7199312448501587
+Task 1
+Accuracy at 1  0.7034782767295837
+Task 2
+Accuracy at 2  0.684119701385498
+Task 3
+Accuracy at 3  0.6687790155410767
+Task 4
+Accuracy at 4  0.6590296626091003
+Task 5
+Accuracy at 5  0.6461623907089233
+Task 6
+Accuracy at 6  0.6373395323753357
+Task 7
+Accuracy at 7  0.6360622048377991
+Task 8
+Accuracy at 8  0.6223943829536438
+Task 9
+Accuracy at 9  0.6221482157707214
+incremental accuracy 0.6599444150924683

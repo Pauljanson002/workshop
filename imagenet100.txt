@@ -1,0 +1,14 @@
+ImageNet already downloaded.
+ImageNet already downloaded.
+True
+Accuracy at 0 0.9599999785423279
+Accuracy at 1 0.9670000076293945
+Accuracy at 2 0.9446666836738586
+Accuracy at 3 0.9300000071525574
+Accuracy at 4 0.9020000100135803
+Accuracy at 5 0.8853333592414856
+Accuracy at 6 0.8834285736083984
+Accuracy at 7 0.878250002861023
+Accuracy at 8 0.8595555424690247
+Accuracy at 9 0.8507999777793884
+average incremental accuracy 90.61 

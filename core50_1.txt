@@ -1,0 +1,26 @@
+True
+Task 0
+Starting training
+Accuracy at 0 0.7865116000175476
+Task 1
+Starting training
+Accuracy at 1 0.8103263974189758
+Task 2
+Starting training
+Accuracy at 2 0.8333407640457153
+Task 3
+Starting training
+Accuracy at 3 0.8401894569396973
+Task 4
+Starting training
+Accuracy at 4 0.8403895497322083
+Task 5
+Starting training
+Accuracy at 5 0.8468380570411682
+Task 6
+Starting training
+Accuracy at 6 0.8463932871818542
+Task 7
+Starting training
+Accuracy at 7 0.8542426228523254
+average incremental accuracy 83.23 

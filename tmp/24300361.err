@@ -1,0 +1,51 @@
+2023-03-17 16:30:12.182 | INFO     | __main__:<module>:44 - Size of dataset 2907
+2023-03-17 16:30:21.425 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:30:36.423 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 20
+2023-03-17 16:30:49.194 | INFO     | __main__:<module>:44 - Size of dataset 2838
+2023-03-17 16:30:50.803 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:31:01.414 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 40
+2023-03-17 16:31:14.241 | INFO     | __main__:<module>:44 - Size of dataset 2936
+2023-03-17 16:31:15.842 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:31:26.803 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 60
+2023-03-17 16:31:40.172 | INFO     | __main__:<module>:44 - Size of dataset 3145
+2023-03-17 16:31:41.765 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:31:53.431 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 80
+2023-03-17 16:32:06.718 | INFO     | __main__:<module>:44 - Size of dataset 3002
+2023-03-17 16:32:08.323 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:32:33.618 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 100
+2023-03-17 16:32:47.945 | INFO     | __main__:<module>:44 - Size of dataset 3201
+2023-03-17 16:32:49.537 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:33:01.335 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 120
+2023-03-17 16:33:15.767 | INFO     | __main__:<module>:44 - Size of dataset 3378
+2023-03-17 16:33:17.365 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:33:29.884 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 140
+2023-03-17 16:33:42.693 | INFO     | __main__:<module>:44 - Size of dataset 2697
+2023-03-17 16:33:44.289 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:33:54.593 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 160
+2023-03-17 16:34:07.500 | INFO     | __main__:<module>:44 - Size of dataset 2976
+2023-03-17 16:34:09.099 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:34:20.076 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 180
+2023-03-17 16:34:32.285 | INFO     | __main__:<module>:44 - Size of dataset 2920
+2023-03-17 16:34:33.862 | INFO     | __main__:<module>:53 - Extracting features
+2023-03-17 16:34:44.655 | INFO     | __main__:<module>:65 - Size of the class-mean_set = 200
+2023-03-17 16:34:44.655 | INFO     | __main__:<module>:91 - Size of dataset 582
+2023-03-17 16:34:47.575 | INFO     | __main__:<module>:107 - Accuracy at 0  0.4673539400100708
+2023-03-17 16:34:47.575 | INFO     | __main__:<module>:91 - Size of dataset 568
+2023-03-17 16:34:50.301 | INFO     | __main__:<module>:107 - Accuracy at 1  0.6021126508712769
+2023-03-17 16:34:50.301 | INFO     | __main__:<module>:91 - Size of dataset 588
+2023-03-17 16:34:53.087 | INFO     | __main__:<module>:107 - Accuracy at 2  0.5833333134651184
+2023-03-17 16:34:53.088 | INFO     | __main__:<module>:91 - Size of dataset 629
+2023-03-17 16:34:56.024 | INFO     | __main__:<module>:107 - Accuracy at 3  0.5468998551368713
+2023-03-17 16:34:56.024 | INFO     | __main__:<module>:91 - Size of dataset 601
+2023-03-17 16:34:58.927 | INFO     | __main__:<module>:107 - Accuracy at 4  0.5490848422050476
+2023-03-17 16:34:58.928 | INFO     | __main__:<module>:91 - Size of dataset 641
+2023-03-17 16:35:02.029 | INFO     | __main__:<module>:107 - Accuracy at 5  0.5585023164749146
+2023-03-17 16:35:02.029 | INFO     | __main__:<module>:91 - Size of dataset 676
+2023-03-17 16:35:05.171 | INFO     | __main__:<module>:107 - Accuracy at 6  0.5517751574516296
+2023-03-17 16:35:05.172 | INFO     | __main__:<module>:91 - Size of dataset 540
+2023-03-17 16:35:07.917 | INFO     | __main__:<module>:107 - Accuracy at 7  0.5592592358589172
+2023-03-17 16:35:07.917 | INFO     | __main__:<module>:91 - Size of dataset 596
+2023-03-17 16:35:10.722 | INFO     | __main__:<module>:107 - Accuracy at 8  0.5033556818962097
+2023-03-17 16:35:10.722 | INFO     | __main__:<module>:91 - Size of dataset 584
+2023-03-17 16:35:13.473 | INFO     | __main__:<module>:107 - Accuracy at 9  0.6352739930152893
+2023-03-17 16:35:13.473 | INFO     | __main__:<module>:109 - Average per task accuracy 0.555695116519928
